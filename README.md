@@ -1,0 +1,1 @@
+使用Biopython进行查找NCBI数据库中的Gallus gallus(chicken)的全部TRIM 核苷酸mRNA序列
